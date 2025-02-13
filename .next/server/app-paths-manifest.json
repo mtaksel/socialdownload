@@ -1,3 +1,6 @@
 {
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/(platforms)/instagram/page": "app/(platforms)/instagram/page.js",
+  "/(platforms)/youtube/page": "app/(platforms)/youtube/page.js",
+  "/api/youtube/info/route": "app/api/youtube/info/route.js"
 }
